@@ -1,0 +1,6 @@
+{
+  "name": "Opponè",
+  "description": "Opponè - Plateforme d'apprentissage et de compétition de dactylographie pour la classe : espace enseignant avec live feed, classement en temps réel, épreuves chronométrées avec notes sur 20 et badges, espace élève, et espace gaming dactylo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
